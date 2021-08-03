@@ -1,0 +1,15 @@
+h2 {
+  text-align: center;
+}
+div {
+  width: 80%;
+  margin: auto;
+  margin-top: 10px;
+  /* height: 50px; */
+}
+.form {
+  width: 70%;
+  margin-left: 25%;
+
+  background-color: rgb(232, 232, 240);
+}
